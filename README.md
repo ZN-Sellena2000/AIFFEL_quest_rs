@@ -1,7 +1,6 @@
 # AIFFEL_quest_rs
 
 - AIFFEL 과정 중 진행하는 퀘스트를 관리하는 Repository입니다.
-- 기본적인 틀을 제공하며,
 
 레포 구조:
 
