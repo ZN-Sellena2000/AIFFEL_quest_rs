@@ -8,7 +8,7 @@
 AIFFEL_quest_cr
 ├── MainQuest
 │   ├── Quest01
-│   │   ├── .ipynb
+│   │   ├── Project_1_2.ipynb
 │   │   └── README.md
 │   ├── Quest02
 │   │   ├── .ipynb
