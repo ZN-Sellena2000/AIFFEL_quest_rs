@@ -1,5 +1,5 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 오학균
+- 코더 : 이지연
 - 리뷰어 : 김완수
 
 
@@ -7,10 +7,8 @@
 - [X]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
-        ![alt text] (![./i1.png](https://github.com/kwskws1998/AIFFEL_quest_rs4/blob/main/Exploration/Quest05/i1.png))
-        ![alt text] (![./i2.png](https://github.com/kwskws1998/AIFFEL_quest_rs4/blob/main/Exploration/Quest05/i2.png))
-        ![alt text] (![./i3.png](https://github.com/kwskws1998/AIFFEL_quest_rs4/blob/main/Exploration/Quest05/i3.png))
-        ![alt text] (![./i3.png](https://github.com/kwskws1998/AIFFEL_quest_rs4/blob/main/Exploration/Quest05/i4.png))
+        ![alt text] (![./i1.png](https://github.com/kwskws1998/AIFFEL_quest_rs5/blob/main/Exploration/Quest06/i1.png))
+        ![alt text] (![./i2.png](https://github.com/kwskws1998/AIFFEL_quest_rs5/blob/main/Exploration/Quest06/i2.png))
 
     
 - [X]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
