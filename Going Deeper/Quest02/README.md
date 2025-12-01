@@ -1,7 +1,7 @@
 # AIFFEL Campus Online Code Peer Review Templete
 
-- 코더 : 코더의 이름을 작성하세요.
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
+- 코더 : 이지연
+- 리뷰어 : 결석으로 인해 퀘스트 미수행.
 
 # PRT(Peer Review Template)
 
